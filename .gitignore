@@ -1,0 +1,6 @@
+# Ignore unwanted folders
+ipynb_files/
+streamlit/
+
+# Ignore unwanted files
+test.py
